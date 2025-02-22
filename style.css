@@ -1,0 +1,72 @@
+div{
+    margin: 200px;
+}
+
+button{
+    margin: 20px; 
+    padding: 20px;
+    color: aqua;
+    background-color: black;
+    transition: 1s;
+}
+
+.bt1:hover{
+  color: brown;
+  border: darkgoldenrod double 5px;
+  background-color: pink;
+  border-radius:70%;
+  transition: 1s; 
+}
+
+.bt2:hover{
+    color: brown;
+    border: darkgoldenrod double 5px;
+color: black; 
+    border-radius:70%; 
+    transition: 1s;
+      
+  }
+
+  .bt3:hover{
+    color: brown;
+    border: darkgoldenrod double 5px;
+    background-color: #000; 
+    border-radius:70%; 
+    transition: 1s;  
+  }
+
+  .bt4:hover{
+    color: brown;
+    border: darkgoldenrod double 5px;
+    background-color: green; 
+    border-radius:70%; 
+    transition: 1s;  
+  }
+
+
+  .bt5:hover{
+    color: aqua;
+    border: darkgoldenrod double 5px;
+    background-color: hsla(hue, saturation, light, alpha); 
+border-radius:70%;
+transition: 1s;
+  }
+.fa-instagram{
+cursor: pointer;
+color: purple;
+}
+
+.fa-github{
+cursor: pointer;
+color: aliceblue;
+}
+
+.fa-whatsapp{
+  cursor: pointer;
+  color: rgb(41, 179, 41);
+  }
+
+.fa-tiktok{
+cursor: pointer;
+color: hotpink;
+}
